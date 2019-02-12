@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmsThemes</string>
+    <!--ID Naative Admob-->
+    <string name="id_native_admob">ca-app-pub-8562466601970101/5081303159</string>
+    <string name="subscribeToTopic">SMSThemes</string>
+    <string name="id_google_analytics">UA-100882717-1</string>
+</resources>

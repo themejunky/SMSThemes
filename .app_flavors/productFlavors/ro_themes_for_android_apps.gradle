@@ -1,0 +1,286 @@
+//themesforandroidapps@yahoo.com-madalina313
+
+/*
+
+ <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="4df75b870b0d051b0cb1db584d67628524649583" />
+
+
+"project_info": {
+    "project_number": "1086697854345",
+    "project_id": "default-demo-app-b1a2f"
+  },
+
+*/ ro_pinkynotes_sms_plus {
+    applicationId "com.tjtheme.pinkynotes.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_virtualcity_sms_plus {
+    applicationId "com.tjtheme.virtualcity.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_travel_sms_plus {
+    applicationId "com.tjtheme.travel.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_romantic_sms_plus {
+    applicationId "com.tjtheme.romantic.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_pokejokes_sms_plus {
+    applicationId "com.tjtheme.pokejokes.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_paris_sms_plus {
+    applicationId "com.tjtheme.paris.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_clean_sms_plus {
+    applicationId "com.tjtheme.clean.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_egypt_sms_plus {
+    applicationId "com.tjtheme.egypt.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_empiregods_sms_plus {
+    applicationId "com.tjtheme.empiregods.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_diamond_sms_plus {
+    applicationId "com.tjtheme.diamond.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_crazycolored_sms_plus {
+    applicationId "com.tjtheme.crazycolored.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_handdrawn_sms_plus {
+    applicationId "com.tjtheme.handdrawn.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_hell_sms_plus {
+    applicationId "com.tjtheme.hell.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_light_sms_plus {
+    applicationId "com.tjtheme.light.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_universe_sms_plus {
+    applicationId "com.tjtheme.universe.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_hack_sms_plus {
+    applicationId "com.tjtheme.hack.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_qwerty_sms_plus {
+    applicationId "com.tjtheme.qwerty.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_colorful_sms_plus {
+    applicationId "com.tjtheme.colorful.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_clear_sms_plus {
+    applicationId "com.tjtheme.clear.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_diamonds_sms_plus {
+    applicationId "com.tjtheme.diamonds.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_stone_sms_plus {
+    applicationId "com.tjtheme.stone.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_rock_sms_plus {
+    applicationId "com.tjtheme.rock.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_space_sms_plus {
+    applicationId "com.tjtheme.space.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_vintage_sms_plus {
+    applicationId "com.tjtheme.vintage.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_wood_sms_plus {
+    applicationId "com.tjtheme.wood.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_retro_sms_plus {
+    applicationId "com.tjtheme.retro.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_crazy_sms_plus {
+    applicationId "com.tjtheme.crazy.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_hello_sms_plus {
+    applicationId "com.tjtheme.hello.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_lights_sms_plus {
+    applicationId "com.tjtheme.lights.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_sense_sms_plus {
+    applicationId "com.tjtheme.sense.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_cupcake_sms_plus {
+    applicationId "com.tjtheme.cupcake.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_eightbit_sms_plus {
+    applicationId "com.tjtheme.eightbit.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_sweetpink_sms_plus {
+    applicationId "com.tjtheme.sweetpink.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}
+ro_alien_technology {
+    applicationId "com.tjtheme.alientechnology.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.smsro
+    playAccountConfig = playAccountConfigs.RoAccountConfig
+    flavorDimensions "default"
+}

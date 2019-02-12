@@ -1,0 +1,20 @@
+<resources>
+<string name="app_name">Alien Technology</string>
+<string name="theme_name">Alien Technology</string>
+<string name="theme_description">Description</string>
+
+
+<string name="font_name">squareiMM.ttf</string>
+<string name="font_asset">squareiMM.ttf</string>
+
+<!--Inbox theme texts-->
+<string name="font_montserrat_bold">squareiMM.ttf</string>
+<string name="font_montserrat_regular">squareiMM.ttf</string>
+
+
+<string name="theme_id">theme-ac8ea510-ca66-11e1-9mad-08002000alien</string>
+
+<string name="hash">a0b1d9dabe82497ccfb9444cec0a73694b295f5f034841d8702e6fef584c0f1c</string>
+
+<string name="splash_title">Alien Technology</string>
+</resources>

@@ -1,0 +1,4 @@
+RoAccountConfig {
+    serviceAccountEmail = 'googleplayandroiddeveloper@api-8661782338923918265-529636.iam.gserviceaccount.com'
+    pk12File = file('../p12keys/GooglePlayAndroidDeveloper-3df34ddb60d9.p12')
+}

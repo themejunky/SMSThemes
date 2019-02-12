@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="time_rate_notification1">600</integer>
+    <integer name="time_rate_notification2">3600</integer>
+    <integer name="time_rate_notification3">7200</integer>
+</resources>
