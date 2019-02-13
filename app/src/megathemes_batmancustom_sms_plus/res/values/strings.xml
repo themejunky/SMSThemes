@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <string name="app_name">Batman SMS Plus</string>
+    <string name="theme_name">Batman SMS Plus</string>
+    <string name="theme_description">Enjoy</string>
+
+
+    <string name="font_name">JotiOne-Regular.ttf</string>
+    <string name="font_asset">JotiOne-Regular.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">JotiOne-Regular.ttf</string>
+    <string name="font_montserrat_regular">JotiOne-Regular.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-11e1-batman-0800200c9a84</string>
+
+
+    <string name="hash">035ea25838e70552654c74e65ec08b20078d10124126814cbfe77d906d01d3c0</string>
+
+
+    <string name="splash_title">Splash TItle</string>
+</resources>

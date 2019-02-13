@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Chelsea SMS Plus</string>
+    <string name="theme_name">Chelsea SMS Plus</string>
+    <string name="theme_description">Enjoy this amazing theme!</string>
+
+
+    <string name="font_name">GOTHICB.TTF</string>
+    <string name="font_asset">GOTHICB.TTF</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">GOTHICB.TTF</string>
+    <string name="font_montserrat_regular">GOTHICB.TTF</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-chelsea-custom-0800350c9a13</string>
+
+    <string name="hash">3d1bcdc2b621dcf6a902b47e6b67721dca09eddb1b1c56e2ce658572cd2ba67e</string>
+
+
+    <string name="splash_title">Chelsea SMS Plus</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <string name="app_name">Butterflies SMS Plus</string>
+    <string name="theme_name">Butterflies SMS Plus</string>
+    <string name="theme_description">Enjoy!</string>
+
+
+    <string name="font_name">MarkoOne-Regular.ttf</string>
+    <string name="font_asset">MarkoOne-Regular.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">MarkoOne-Regular.ttf</string>
+    <string name="font_montserrat_regular">MarkoOne-Regular.ttf</string>
+
+    <string name="facebook_app_id">612400469113603</string>
+
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-megathemes-butterflies-0800200c9a84</string>
+
+
+    <string name="hash">035ea25838e70552654c74e65ec08b20078d10124126814cbfe77d906d01d3c0</string>
+
+    <string name="admob_interstitial_id">ca-app-pub-5322508131338449/2850966840</string>
+    <string name="admob_native_id">ca-app-pub-5322508131338449/3210059490</string>
+
+
+    <string name="splash_title">Splash TItle</string>
+</resources>

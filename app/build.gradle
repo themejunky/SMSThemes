@@ -27,9 +27,9 @@ android {
     }
 
     playAccountConfigs {
-        RoAccountConfig {
-            serviceAccountEmail = 'googleplayandroiddeveloper@api-8661782338923918265-529636.iam.gserviceaccount.com'
-            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-3df34ddb60d9.p12')
+        MegaThemesAccountConfig {
+            serviceAccountEmail = 'googleplay-developer@api-8353075301884328841-489954.iam.gserviceaccount.com'
+            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-af5759b298d0.p12')
         }
     }
     play {
@@ -37,9 +37,9 @@ android {
     }
 
     signingConfigs {
-        smsro {
+        megathemes {
             Properties props = new Properties()
-            props.load(new FileInputStream(file("../keystore/smsro.properties")))
+            props.load(new FileInputStream(file("../keystore/magathemes.properties")))
             storeFile file(props['key.store'])
             storePassword props['key.store.password']
             keyAlias props['key.alias']
@@ -51,12 +51,12 @@ android {
         enabled = true
     }
     productFlavors {
-        ro_alien_technology {
-            applicationId "com.tjtheme.alientechnology.app"
+        megathemes_crypto_sms_plus {
+            applicationId "com.megathemes.sms.plus.crypto.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
-            signingConfig signingConfigs.smsro
-            playAccountConfig = playAccountConfigs.RoAccountConfig
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
             flavorDimensions "default"
         }
 
