@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Universe SMS Plus</string>
+    <string name="theme_name">Universe SMS Plus</string>
+    <string name="theme_description">Please enjoy!</string>
+
+
+    <string name="font_name">Montserrat-Regular.ttf</string>
+    <string name="font_asset">Montserrat-Regular.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">Montserrat-Regular.ttf</string>
+    <string name="font_montserrat_regular">Montserrat-Regular.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-11e1-9mad-0800200c9993</string>
+    <string name="hash">a0b1d9dabe82497ccfb9444cec0a73694b295f5f034841d8702e6fef584c0f1c</string>
+
+    <string name="splash_title">Universe SMS PLus</string>
+</resources>

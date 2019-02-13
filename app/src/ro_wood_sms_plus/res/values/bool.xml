@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="old_design">true</bool>
+    <bool name="new_message_button_shadow">false</bool>
+    <bool name="quick_reply_buttons_icons">false</bool>
+</resources>

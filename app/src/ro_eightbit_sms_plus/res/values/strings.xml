@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Eight Bit SMS Plus</string>
+    <string name="theme_name">Eight Bit SMS Plus</string>
+    <string name="theme_description">Please enjoy!</string>
+
+
+    <string name="font_name">VCR_OSD_MONO_1.001.ttf</string>
+    <string name="font_asset">VCR_OSD_MONO_1.001.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">VCR_OSD_MONO_1.001.ttf</string>
+    <string name="font_montserrat_regular">VCR_OSD_MONO_1.001.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-11e1-9mad-0800200c9557</string>
+    <string name="hash">a0b1d9dabe82497ccfb9444cec0a73694b295f5f034841d8702e6fef584c0f1c</string>
+
+    <string name="splash_title">Eight Bit SMS Plus</string>
+</resources>

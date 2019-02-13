@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hacker SMS Plus</string>
+    <string name="theme_name">Hacker SMS Plus</string>
+    <string name="theme_description">Please enjoy!</string>
+
+
+    <string name="font_name">Exo-Regular.ttf</string>
+    <string name="font_asset">Exo-Regular.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">Exo-Regular.ttf</string>
+    <string name="font_montserrat_regular">Exo-Regular.ttf</string>
+
+    <string name="facebook_app_id">1264061010395564</string>
+    <string name="theme_id">theme-ac8ea510-ca66-11e1-9mad-0800200c9986</string>
+    <string name="hash">a0b1d9dabe82497ccfb9444cec0a73694b295f5f034841d8702e6fef584c0f1c</string>
+
+
+    <string name="splash_title">Hacker SMS Plus</string>
+</resources>

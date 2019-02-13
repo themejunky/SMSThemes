@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hello SMS Plus</string>
+    <string name="theme_name">Hello SMS Plus</string>
+    <string name="theme_description">Enjoy this theme!</string>
+
+
+    <string name="font_name">Raleway-Medium.ttf</string>
+    <string name="font_asset">Raleway-Medium.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">Raleway-Medium.ttf</string>
+    <string name="font_montserrat_regular">Raleway-Medium.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-11e1-9mad-0800500c9a39</string>
+
+    <string name="hash">a0b1d9dabe82497ccfb9444cec0a73694b295f5f034841d8702e6fef584c0f1c</string>
+
+
+    <string name="splash_title">Hello SMS Plus</string>
+</resources>
