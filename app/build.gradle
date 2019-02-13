@@ -27,9 +27,9 @@ android {
     }
 
     playAccountConfigs {
-        CrAccountConfig {
-            serviceAccountEmail = '832332847631-compute@developer.gserviceaccount.com'
-            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-1aa366ac4467.p12')
+        NewThemesAccountConfig {
+            serviceAccountEmail = 'googleplay-android@api-8923513110779654995-334767.iam.gserviceaccount.com'
+            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-65cca24256fa.p12')
         }
     }
     play {
@@ -37,9 +37,9 @@ android {
     }
 
     signingConfigs {
-        costa_rica {
+        newthemes {
             Properties props = new Properties()
-            props.load(new FileInputStream(file("../keystore/smscostarica.properties")))
+            props.load(new FileInputStream(file("../keystore/newthemes.properties")))
             storeFile file(props['key.store'])
             storePassword props['key.store.password']
             keyAlias props['key.alias']
@@ -51,12 +51,12 @@ android {
         enabled = true
     }
     productFlavors {
-        cr_neon_red_sms_plus {
-            applicationId "com.themejunky.neonred.theme.app"
+        newthemes_newgold_sms_plus {
+            applicationId "com.newthemes.sms.newgold.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
-            signingConfig signingConfigs.costa_rica
-            playAccountConfig = playAccountConfigs.CrAccountConfig
+            signingConfig signingConfigs.newthemes
+            playAccountConfig = playAccountConfigs.NewThemesAccountConfig
             flavorDimensions "default"
         }
 

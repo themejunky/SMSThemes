@@ -1,0 +1,134 @@
+//megathemespro@yahoo.com parolamea313
+
+/*<meta-data
+android:name="io.fabric.ApiKey"
+android:value="63fe16b98e8e35e18e4651e7277de59b8fe929f5" />*/
+
+newthemes_newcartoonsms_sms_plus {
+    applicationId "com.newthemes.sms.newcartoonsms.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_newcolors_sms_plus {
+    applicationId "com.newthemes.sms.newcolors.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_newcutekittykawaii_sms_plus {
+    applicationId "com.newthemes.sms.newcutekittykawaii.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_newfire_sms_plus {
+    applicationId "com.newthemes.sms.newfire.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_newladybug_sms_plus {
+    applicationId "com.newthemes.sms.newladybug.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_newneondragon_sms_plus {
+    applicationId "com.newthemes.sms.newneondragon.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_newgold_sms_plus {
+    applicationId "com.newthemes.sms.newgold.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_bestjoker_sms_plus {
+    applicationId "com.newthemes.sms.bestjoker.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_cutepuppy_sms_plus {
+    applicationId "com.newthemes.sms.cutepuppy.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_freeking_sms_plus {
+    applicationId "com.newthemes.sms.freeking.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_diamondcheetah_sms_plus {
+    applicationId "com.newthemes.sms.diamondcheetah.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_fancysms_sms_plus {
+    applicationId "com.newthemes.sms.fancysms.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_elegantpinkflower_sms_plus {
+    applicationId "com.newthemes.sms.elegantpinkflower.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_coolgardens_sms_plus {
+    applicationId "com.newthemes.sms.coolgardensms.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_hdrobot_sms_plus {
+    applicationId "com.newthemes.sms.hdrobotsms.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
+newthemes_newheartlove_sms_plus {
+    applicationId "com.newthemes.sms.newheartlovesms.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.newthemes
+    playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+    flavorDimensions "default"
+}
