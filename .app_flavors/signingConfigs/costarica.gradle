@@ -1,0 +1,8 @@
+costa_rica {
+    Properties props = new Properties()
+    props.load(new FileInputStream(file("../keystore/smscostarica.properties")))
+    storeFile file(props['key.store'])
+    storePassword props['key.store.password']
+    keyAlias props['key.alias']
+    keyPassword props['key.alias.password']
+}

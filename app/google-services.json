@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.theme.sms.pinkhd.app"
+          "package_name":  "com.tj.summer.app"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.theme.sms.pinkhd.app",
+            "package_name":  "com.tj.summer.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -26,7 +26,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.theme.sms.pinkhd.app",
+            "package_name":  "com.tj.summer.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -58,7 +58,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.pink.app"
+          "package_name":  "com.tj.flowers.app"
         }
       },
       "oauth_client": [
@@ -66,7 +66,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pink.app",
+            "package_name":  "com.tj.flowers.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -74,7 +74,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pink.app",
+            "package_name":  "com.tj.flowers.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -106,7 +106,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.whatsapp.app"
+          "package_name":  "com.tj.candy.app"
         }
       },
       "oauth_client": [
@@ -114,7 +114,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.whatsapp.app",
+            "package_name":  "com.tj.candy.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -122,7 +122,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.whatsapp.app",
+            "package_name":  "com.tj.candy.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -154,7 +154,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.messenger.app"
+          "package_name":  "com.tj.babyblue.app"
         }
       },
       "oauth_client": [
@@ -162,7 +162,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.messenger.app",
+            "package_name":  "com.tj.babyblue.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -170,7 +170,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.messenger.app",
+            "package_name":  "com.tj.babyblue.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -202,7 +202,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.pinkapple.app"
+          "package_name":  "com.tj.easter.app"
         }
       },
       "oauth_client": [
@@ -210,7 +210,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pinkapple.app",
+            "package_name":  "com.tj.easter.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -218,7 +218,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pinkapple.app",
+            "package_name":  "com.tj.easter.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -250,7 +250,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.galaxynote8.app"
+          "package_name":  "com.tj.pinkglow.app"
         }
       },
       "oauth_client": [
@@ -258,7 +258,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.galaxynote8.app",
+            "package_name":  "com.tj.pinkglow.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -266,7 +266,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.galaxynote8.app",
+            "package_name":  "com.tj.pinkglow.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -298,7 +298,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.applepinkphone8.app"
+          "package_name":  "com.tj.valentinesday.app"
         }
       },
       "oauth_client": [
@@ -306,7 +306,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.applepinkphone8.app",
+            "package_name":  "com.tj.valentinesday.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -314,7 +314,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.applepinkphone8.app",
+            "package_name":  "com.tj.valentinesday.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -346,7 +346,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.pinkdiamondparis.app"
+          "package_name":  "com.tj.violetglow.app"
         }
       },
       "oauth_client": [
@@ -354,7 +354,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pinkdiamondparis.app",
+            "package_name":  "com.tj.violetglow.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -362,7 +362,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pinkdiamondparis.app",
+            "package_name":  "com.tj.violetglow.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -394,7 +394,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.pinkphone8.app"
+          "package_name":  "com.tj.greenglow.app"
         }
       },
       "oauth_client": [
@@ -402,7 +402,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pinkphone8.app",
+            "package_name":  "com.tj.greenglow.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -410,7 +410,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pinkphone8.app",
+            "package_name":  "com.tj.greenglow.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -442,7 +442,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.pinkphonex.app"
+          "package_name":  "com.tj.spring.app"
         }
       },
       "oauth_client": [
@@ -450,7 +450,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pinkphonex.app",
+            "package_name":  "com.tj.spring.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -458,7 +458,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pinkphonex.app",
+            "package_name":  "com.tj.spring.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -490,7 +490,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.snapchat.app"
+          "package_name":  "com.tj.colorred.app"
         }
       },
       "oauth_client": [
@@ -498,7 +498,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.snapchat.app",
+            "package_name":  "com.tj.colorred.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -506,7 +506,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.snapchat.app",
+            "package_name":  "com.tj.colorred.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -538,7 +538,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.telegram.app"
+          "package_name":  "com.tj.butterfly.app"
         }
       },
       "oauth_client": [
@@ -546,7 +546,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.telegram.app",
+            "package_name":  "com.tj.butterfly.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -554,7 +554,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.telegram.app",
+            "package_name":  "com.tj.butterfly.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -586,7 +586,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.pixel.app"
+          "package_name":  "com.tj.colorneon.app"
         }
       },
       "oauth_client": [
@@ -594,7 +594,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pixel.app",
+            "package_name":  "com.tj.colorneon.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -602,7 +602,7 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.pixel.app",
+            "package_name":  "com.tj.colorneon.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -634,7 +634,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
         "android_client_info": {
-          "package_name":  "com.aws.sms.halloween.app"
+          "package_name":  "com.tj.independenceday.app"
         }
       },
       "oauth_client": [
@@ -642,7 +642,7 @@
           "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.halloween.app",
+            "package_name":  "com.tj.independenceday.app",
             "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
           }
         },
@@ -650,7 +650,583 @@
           "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name":  "com.aws.sms.halloween.app",
+            "package_name":  "com.tj.independenceday.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.tj.color.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.tj.color.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.tj.color.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.tj.strawberry.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.tj.strawberry.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.tj.strawberry.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.themejunky.neoncolors.theme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neoncolors.theme.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neoncolors.theme.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.themejunky.neondarkblue.theme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neondarkblue.theme.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neondarkblue.theme.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.themejunky.neonfreepurple.theme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonfreepurple.theme.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonfreepurple.theme.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.themejunky.neongold.theme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neongold.theme.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neongold.theme.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.themejunky.neonlightpurple.theme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonlightpurple.theme.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonlightpurple.theme.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.themejunky.neonpink.theme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonpink.theme.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonpink.theme.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.themejunky.neon.theme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neon.theme.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neon.theme.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.themejunky.neonlightgreen.theme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonlightgreen.theme.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonlightgreen.theme.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.themejunky.neonred.theme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonred.theme.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonred.theme.app",
+            "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTowBdkLdlqcyDIiomdxmR3gQFQti0Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653435060797-3kl0d6v9k8k1lhgdndq78uq0b536gtns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653435060797:android:dd961ad7027fb4f0",
+        "android_client_info": {
+          "package_name":  "com.themejunky.neonorange.theme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653435060797-s3otfvavf76bce0mh5e9m3c7qcrdil9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonorange.theme.app",
+            "certificate_hash": "64d62a5d4c8be5c0a4b2804c55f0571a7d0aec8c"
+          }
+        },
+        {
+          "client_id": "653435060797-ed04fgk5agh5jk917rl2q8jpjjaf7e57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name":  "com.themejunky.neonorange.theme.app",
             "certificate_hash": "97872c4c6d532c589e6e98a696a9e55b8b8580ed"
           }
         }
@@ -678,6 +1254,7 @@
         }
       }
     }
+
 
   ],
   "configuration_version": "1"

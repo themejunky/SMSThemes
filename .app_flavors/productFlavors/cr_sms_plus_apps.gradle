@@ -1,0 +1,212 @@
+//smsplusapps@yahoo.com-madalina313
+
+/*<meta-data
+android:name="io.fabric.ApiKey"
+android:value="367c87ee59493c25fd95f29ade9b1328c39be9bf" />*/
+
+cr_summer_sms_plus {
+    applicationId "com.tj.summer.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_flowers_sms_plus {
+    applicationId "com.tj.flowers.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_candy_sms_plus {
+    applicationId "com.tj.candy.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_babyblue_sms_plus {
+    applicationId "com.tj.babyblue.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_easter_sms_plus {
+    applicationId "com.tj.easter.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_pinkglow_sms_plus {
+    applicationId "com.tj.pinkglow.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_valentinesday_sms_plus {
+    applicationId "com.tj.valentinesday.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_violetglow_sms_plus {
+    applicationId "com.tj.violetglow.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_greenglow_sms_plus {
+    applicationId "com.tj.greenglow.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_spring_sms_plus {
+    applicationId "com.tj.spring.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_colorred_sms_plus {
+    applicationId "com.tj.colorred.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_butterfly_sms_plus {
+    applicationId "com.tj.butterfly.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_colorneon_sms_plus {
+    applicationId "com.tj.colorneon.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_independenceday_sms_plus {
+    applicationId "com.tj.independenceday.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.AlgAccountConfig
+}
+cr_color_sms_plus {
+    applicationId "com.tj.color.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_strawberry_sms_plus {
+    applicationId "com.tj.strawberry.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_neon_colors_theme_sms_plus {
+    applicationId "com.themejunky.neoncolors.theme.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_neon_free_darkblue_sms_plus {
+    applicationId "com.themejunky.neondarkblue.theme.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_neon_free_purple_sms_plus {
+    applicationId "com.themejunky.neonfreepurple.theme.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_neon_gold_theme_sms_plus {
+    applicationId "com.themejunky.neongold.theme.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_neon_light_purple_sms_plus {
+    applicationId "com.themejunky.neonlightpurple.theme.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.AlgAccountConfig
+}
+cr_neon_pink_theme_sms_plus {
+    applicationId "com.themejunky.neonpink.theme.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_neon_theme_sms_plus {
+    applicationId "com.themejunky.neon.theme.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_neon_light_green_sms_plus {
+    applicationId "com.themejunky.neonlightgreen.theme.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_neon_red_sms_plus {
+    applicationId "com.themejunky.neonred.theme.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}
+cr_neon_orange_sms_plus {
+    applicationId "com.themejunky.neonorange.theme.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.costa_rica
+    playAccountConfig = playAccountConfigs.CrAccountConfig
+    flavorDimensions "default"
+}

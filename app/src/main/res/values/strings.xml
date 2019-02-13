@@ -2,6 +2,6 @@
     <string name="app_name">SmsThemes</string>
 
     <string name="id_native_admob">ca-app-pub-8562466601970101/5081303159</string>
-    <string name="subscribeToTopic">AwesomeThemes</string>
-    <string name="id_google_analytics">UA-100089247-1</string>
+    <string name="subscribeToTopic">CostaRica</string>
+    <string name="id_google_analytics">UA-100087380-1</string>
 </resources>

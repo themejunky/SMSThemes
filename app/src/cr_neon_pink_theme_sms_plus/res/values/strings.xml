@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <string name="app_name">Neon Pink SMS Plus</string>
+    <string name="theme_name">Neon Pink SMS Plus</string>
+    <string name="theme_description">Description</string>
+
+
+    <string name="font_name">Nunito-Regular.ttf</string>
+    <string name="font_asset">Nunito-Regular.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">Nunito-Regular.ttf</string>
+    <string name="font_montserrat_regular">Nunito-Regular.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-cr-neonpink-0800200c9a84</string>
+
+
+    <string name="hash">2f9d57150acc1d5c1325e4d09551ba2074f13338e335eeb630d892ec0378b4f3</string>
+
+
+    <string name="splash_title">Splash TItle</string>
+</resources>
