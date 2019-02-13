@@ -27,9 +27,9 @@ android {
     }
 
     playAccountConfigs {
-        NewThemesAccountConfig {
-            serviceAccountEmail = 'googleplay-android@api-8923513110779654995-334767.iam.gserviceaccount.com'
-            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-65cca24256fa.p12')
+        PerfectAccountConfig {
+            serviceAccountEmail = 'googleplayandroiddeveloper@api-6760245939149457068-817945.iam.gserviceaccount.com'
+            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-dfd3770c61ca.p12')
         }
     }
     play {
@@ -37,13 +37,14 @@ android {
     }
 
     signingConfigs {
-        newthemes {
+        perfectthemes {
             Properties props = new Properties()
-            props.load(new FileInputStream(file("../keystore/newthemes.properties")))
+            props.load(new FileInputStream(file("../keystore/perfectthemes.properties")))
             storeFile file(props['key.store'])
             storePassword props['key.store.password']
             keyAlias props['key.alias']
             keyPassword props['key.alias.password']
+
         }
     }
 
@@ -51,12 +52,12 @@ android {
         enabled = true
     }
     productFlavors {
-        newthemes_newgold_sms_plus {
-            applicationId "com.newthemes.sms.newgold.app"
+        perfectthemes_blackclock_sms_plus {
+            applicationId "com.sms.perfectthemes.blackclock.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
-            signingConfig signingConfigs.newthemes
-            playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+            signingConfig signingConfigs.perfectthemes
+            playAccountConfig = playAccountConfigs.PerfectAccountConfig
             flavorDimensions "default"
         }
 

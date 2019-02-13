@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/contacts_pressed" android:state_focused="true" android:state_pressed="true" />
+    <item android:drawable="@drawable/contacts_pressed" android:state_pressed="true" />
+    <item android:drawable="@drawable/contacts_pressed" android:state_selected="true" />
+    <item android:drawable="@drawable/contacts" />
+</selector><!-- From: file:/C:/CIPRIAN/00_SMS_Plus/01%20TEMA%20RED%20OK/app/src/main/res/drawable/btn_composer_attach_contact_red.xml -->

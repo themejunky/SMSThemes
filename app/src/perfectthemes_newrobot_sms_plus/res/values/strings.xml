@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <string name="app_name">New Robot SMS</string>
+    <string name="theme_name">New Robot SMS</string>
+    <string name="theme_description">Enjoy!</string>
+
+
+    <string name="font_name">Righteous-Regular.ttf</string>
+    <string name="font_asset">Righteous-Regular.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">Righteous-Regular.ttf</string>
+    <string name="font_montserrat_regular">Righteous-Regular.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-perfectthemes-newrobot-0800200c9a84</string>
+
+
+    <string name="hash">035ea25838e70552654c74e65ec08b20078d10124126814cbfe77d906d01d3c0</string>
+
+
+    <string name="splash_title">Splash TItle</string>
+</resources>

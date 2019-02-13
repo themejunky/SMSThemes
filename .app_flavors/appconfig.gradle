@@ -1,4 +1,4 @@
-NewThemesAccountConfig {
-    serviceAccountEmail = 'googleplay-android@api-8923513110779654995-334767.iam.gserviceaccount.com'
-    pk12File = file('../p12keys/GooglePlayAndroidDeveloper-65cca24256fa.p12')
+PerfectAccountConfig {
+    serviceAccountEmail = 'googleplayandroiddeveloper@api-6760245939149457068-817945.iam.gserviceaccount.com'
+    pk12File = file('../p12keys/GooglePlayAndroidDeveloper-dfd3770c61ca.p12')
 }
