@@ -27,9 +27,9 @@ android {
     }
 
     playAccountConfigs {
-        MegaThemesAccountConfig {
-            serviceAccountEmail = 'googleplay-developer@api-8353075301884328841-489954.iam.gserviceaccount.com'
-            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-af5759b298d0.p12')
+        AweAccountConfig {
+            serviceAccountEmail = 'google-play-developer@api-6930642595758357419-976989.iam.gserviceaccount.com'
+            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-960c3811ddb3.p12')
         }
     }
     play {
@@ -37,9 +37,9 @@ android {
     }
 
     signingConfigs {
-        megathemes {
+        themesforsms {
             Properties props = new Properties()
-            props.load(new FileInputStream(file("../keystore/magathemes.properties")))
+            props.load(new FileInputStream(file("../keystore/themesforsms.properties")))
             storeFile file(props['key.store'])
             storePassword props['key.store.password']
             keyAlias props['key.alias']
@@ -51,12 +51,12 @@ android {
         enabled = true
     }
     productFlavors {
-        megathemes_crypto_sms_plus {
-            applicationId "com.megathemes.sms.plus.crypto.app"
+        aws_pinkhd_sms_plus {
+            applicationId "com.theme.sms.pinkhd.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
-            signingConfig signingConfigs.megathemes
-            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            signingConfig signingConfigs.themesforsms
+            playAccountConfig = playAccountConfigs.AweAccountConfig
             flavorDimensions "default"
         }
 
