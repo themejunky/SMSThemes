@@ -1,4 +1,19 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
 apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
 apply plugin: 'kotlin-android'
 apply plugin: 'com.google.gms.google-services'
 apply plugin: 'kotlin-android-extensions'
@@ -59,6 +74,15 @@ android {
             playAccountConfig = playAccountConfigs.NewThemesAccountConfig
             flavorDimensions "default"
         }
+        newthemes_elegantpinkflower_sms_plus {
+            applicationId "com.newthemes.sms.elegantpinkflower.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.newthemes
+            playAccountConfig = playAccountConfigs.NewThemesAccountConfig
+            flavorDimensions "default"
+        }
+
 
     }
 }
@@ -80,4 +104,5 @@ dependencies {
     implementation project(':gdx-backend-android')
     implementation project(':gdx-test')
     implementation project(':rippereffects-v.1.0.3')
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.9.9'
 }
