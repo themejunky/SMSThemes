@@ -1,4 +1,19 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
 apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
 apply plugin: 'kotlin-android'
 apply plugin: 'com.google.gms.google-services'
 apply plugin: 'kotlin-android-extensions'
@@ -59,6 +74,128 @@ android {
             playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
             flavorDimensions "default"
         }
+        megathemes_christmas_sms_plus {
+            applicationId "com.megathemes.sms.plus.christmas.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_newyear_sms_plus {
+            applicationId "com.megathemes.sms.plus.newyear.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_winter_sms_plus {
+            applicationId "com.megathemes.sms.plus.winter.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_animals4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.animals.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_blackclassic4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.blackclassic.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_butterflies4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.butterflies.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_hologram4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.hologram.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_panda4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.panda.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_rosegold4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.rosegold.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_blackgold4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.blackgold.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_magic4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.magic.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_tiger4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.tiger.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_unicorn4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.unicorn.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_ios_sms_plus {
+            applicationId "com.megathemes.sms.plus.ios.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+        megathemes_joker4khd_sms_plus {
+            applicationId "com.megathemes.sms.plus.joker.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.megathemes
+            playAccountConfig = playAccountConfigs.MegaThemesAccountConfig
+            flavorDimensions "default"
+        }
+
+
 
     }
 }
@@ -80,4 +217,5 @@ dependencies {
     implementation project(':gdx-backend-android')
     implementation project(':gdx-test')
     implementation project(':rippereffects-v.1.0.3')
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.9.9'
 }
