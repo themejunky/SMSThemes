@@ -1,4 +1,19 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
 apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
 apply plugin: 'kotlin-android'
 apply plugin: 'com.google.gms.google-services'
 apply plugin: 'kotlin-android-extensions'
@@ -51,8 +66,56 @@ android {
         enabled = true
     }
     productFlavors {
-        cr_neon_red_sms_plus {
-            applicationId "com.themejunky.neonred.theme.app"
+        cr_summer_sms_plus {
+            applicationId "com.tj.summer.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.costa_rica
+            playAccountConfig = playAccountConfigs.CrAccountConfig
+            flavorDimensions "default"
+        }
+        cr_colorneon_sms_plus {
+            applicationId "com.tj.colorneon.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.costa_rica
+            playAccountConfig = playAccountConfigs.CrAccountConfig
+            flavorDimensions "default"
+        }
+        cr_neon_colors_theme_sms_plus {
+            applicationId "com.themejunky.neoncolors.theme.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.costa_rica
+            playAccountConfig = playAccountConfigs.CrAccountConfig
+            flavorDimensions "default"
+        }
+        cr_candy_sms_plus {
+            applicationId "com.tj.candy.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.costa_rica
+            playAccountConfig = playAccountConfigs.CrAccountConfig
+            flavorDimensions "default"
+        }
+        cr_garden_sms_plus {
+            applicationId "com.themejunky.garden.theme.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.costa_rica
+            playAccountConfig = playAccountConfigs.CrAccountConfig
+            flavorDimensions "default"
+        }
+        cr_tiger_sms_plus {
+            applicationId "com.themejunky.pinkfashion.theme.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.costa_rica
+            playAccountConfig = playAccountConfigs.CrAccountConfig
+            flavorDimensions "default"
+        }
+        cr_pinkfashion_sms_plus {
+            applicationId "com.themejunky.tiger.theme.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
             signingConfig signingConfigs.costa_rica
@@ -80,4 +143,5 @@ dependencies {
     implementation project(':gdx-backend-android')
     implementation project(':gdx-test')
     implementation project(':rippereffects-v.1.0.3')
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.9.9'
 }
