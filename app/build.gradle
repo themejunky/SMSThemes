@@ -51,8 +51,48 @@ android {
         enabled = true
     }
     productFlavors {
-        ro_alien_technology {
-            applicationId "com.tjtheme.alientechnology.app"
+        ro_travel_sms_plus {
+            applicationId "com.tjtheme.travel.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.smsro
+            playAccountConfig = playAccountConfigs.RoAccountConfig
+            flavorDimensions "default"
+        }
+        ro_crazy_sms_plus {
+            applicationId "com.tjtheme.crazy.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.smsro
+            playAccountConfig = playAccountConfigs.RoAccountConfig
+            flavorDimensions "default"
+        }
+        ro_crazy_sms_plus {
+            applicationId "com.tjtheme.crazy.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.smsro
+            playAccountConfig = playAccountConfigs.RoAccountConfig
+            flavorDimensions "default"
+        }
+        ro_sense_sms_plus {
+            applicationId "com.tjtheme.sense.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.smsro
+            playAccountConfig = playAccountConfigs.RoAccountConfig
+            flavorDimensions "default"
+        }
+        ro_cupcake_sms_plus {
+            applicationId "com.tjtheme.cupcake.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.smsro
+            playAccountConfig = playAccountConfigs.RoAccountConfig
+            flavorDimensions "default"
+        }
+        ro_hello_sms_plus {
+            applicationId "com.tjtheme.hello.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
             signingConfig signingConfigs.smsro

@@ -35,8 +35,8 @@ task clean(type: Delete) {
 
 ext {
 
-    themeVersionCode = 57
-    themeVersionName = '5.7'
+    themeVersionCode = 59
+    themeVersionName = '5.9'
 
 }
 
