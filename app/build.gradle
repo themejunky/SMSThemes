@@ -44,7 +44,7 @@ android {
     playAccountConfigs {
         UltimateThemesAccountConfig {
             serviceAccountEmail = 'google-developer@api-5289373851224700174-46971.iam.gserviceaccount.com'
-            pk12File = file('C:\\Users\\ZTS\\Documents\\ThemesAppKotlin\\p12keys\\GooglePlayAndroidDeveloper-df7974f31e06.p12')
+            pk12File = file('C:\\Users\\ZTS\\Documents\\SMSThemes\\p12keys\\GooglePlayAndroidDeveloper-df7974f31e06.p12')
         }
     }
     play {
@@ -68,6 +68,14 @@ android {
     productFlavors {
         ultimatethemes_blueflame_sms_plus {
             applicationId "com.ultimatethemes.blueflame.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.ultimatethemes
+            playAccountConfig = playAccountConfigs.UltimateThemesAccountConfig
+            flavorDimensions "default"
+        }
+        ultimatethemes_best_girly_sms_plus {
+            applicationId "com.ultimatethemes.bestgirly.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
             signingConfig signingConfigs.ultimatethemes
