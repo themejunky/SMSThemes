@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <string name="app_name">SMS Vampire HD</string>
+    <string name="theme_name">SMS Vampire HD</string>
+    <string name="theme_description">Have fun!</string>
+
+
+    <string name="font_name">Rosario-Bold.ttf</string>
+    <string name="font_asset">Rosario-Bold.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">Rosario-Bold.ttf</string>
+    <string name="font_montserrat_regular">Rosario-Bold.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-supremethemes-vampirehd-0800200c9a84</string>
+
+
+    <string name="hash">035ea25838e70552654c74e65ec08b20078d10124126814cbfe77d906d01d3c0</string>
+
+
+    <string name="splash_title">Splash TItle</string>
+</resources>

@@ -1,0 +1,227 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="InboxTheme">
+        <item name="app_default_color">@color/app_default_color</item>
+        <item name="app_accent_color">@color/app_accent_color</item>
+        <item name="inbox_default_background">@drawable/inbox_default_background</item>
+        <item name="inbox_actionbar_background">@drawable/inbox_actionbar_background</item>
+        <item name="inbox_actionbar_title_color">@color/inbox_actionbar_title_color</item>
+        <item name="inbox_actionbar_btn_contacts_drawable">@drawable/inbox_actionbar_btn_contacts_drawable</item>
+        <item name="inbox_actionbar_btn_menu">@drawable/inbox_actionbar_btn_menu</item>
+        <item name="inbox_actionbar_btn_back">@drawable/inbox_actionbar_btn_back</item>
+        <item name="inbox_actionbar_btn_settings">@drawable/btn_settings</item>
+        <item name="inbox_actionbar_btn_selectall">@drawable/inbox_actionbar_btn_selectall</item>
+        <item name="inbox_list_divider">@drawable/inbox_list_divider</item>
+        <item name="inbox_search_box_background">@drawable/inbox_search_box_background</item>
+        <item name="inbox_search_box_icon">@drawable/inbox_search_box_icon</item>
+        <item name="inbox_search_box_edittext_drawable">@drawable/inbox_search_box_edittext_drawable</item>
+        <item name="inbox_search_box_text_color">@color/inbox_search_box_text_color</item>
+        <item name="inbox_search_box_text_hint_color">@color/inbox_search_box_text_hint_color</item>
+        <item name="inbox_floating_button_color_accent">@color/inbox_floating_button_color_accent</item>
+        <item name="inbox_floating_button_color_accent_pressed">@color/inbox_floating_button_color_accent_pressed</item>
+        <item name="inbox_floating_button_color_ripple">@color/inbox_floating_button_color_ripple</item>
+        <item name="inbox_floating_button_icon">@drawable/inbox_floating_button_icon</item>
+        <item name="inbox_floating_button_icons_background">@color/inbox_floating_button_icons_background</item>
+        <item name="inbox_floating_button_icons_background_shadow">@color/inbox_floating_button_icons_background_shadow</item>
+        <item name="inbox_floating_button_icon_cancel">@drawable/inbox_floating_button_icon_cancel</item>
+        <item name="inbox_floating_button_icon_mark_read">@drawable/inbox_floating_button_icon_mark_read</item>
+        <item name="inbox_floating_button_icon_mark_unread">@drawable/inbox_floating_button_icon_mark_unread</item>
+        <item name="inbox_floating_button_icon_sticky">@drawable/inbox_floating_button_icon_sticky</item>
+        <item name="inbox_floating_button_icon_delete">@drawable/inbox_floating_button_icon_delete</item>
+        <item name="inbox_floating_button_icon_secure">@drawable/inbox_floating_button_icon_secure</item>
+        <item name="inbox_floating_button_icon_archive">@drawable/inbox_floating_button_icon_archive</item>
+        <item name="inbox_actionbar_settings_button">@drawable/inbox_actionbar_settings_button</item>
+        <item name="inbox_actionbar_select_all">@drawable/inbox_actionbar_select_all</item>
+        <item name="inbox_layout_undo_textview_background">@drawable/inbox_layout_undo_textview_background</item>
+        <item name="inbox_layout_undo_button_background">@drawable/inbox_layout_undo_button_background</item>
+        <item name="inbox_layout_undo_textview_text_color">@color/inbox_layout_undo_textview_text_color</item>
+        <item name="inbox_layout_undo_button_text_color">@color/inbox_layout_undo_button_text_color</item>
+        <item name="inbox_btn_default_app">@drawable/inbox_btn_default_app</item>
+        <item name="inbox_btn_default_text_color">@color/inbox_btn_default_text_color</item>
+        <item name="inbox_btn_default">@drawable/inbox_btn_default</item>
+        <item name="inbox_list_title_size">@dimen/list_title_size</item>
+        <item name="inbox_list_title_color">@color/inbox_list_title_color</item>
+        <item name="inbox_list_letter_color">@color/inbox_list_letter_color</item>
+        <item name="inbox_list_title_notread_color">@color/inbox_list_title_notread_color</item>
+        <item name="inbox_list_subtitle_size">@dimen/list_subtitle_size</item>
+        <item name="inbox_list_subtitle_color">@color/inbox_list_subtitle_color</item>
+        <item name="inbox_list_unknown_contact">@drawable/inbox_list_unknown_contact</item>
+        <item name="inbox_list_date_size">@dimen/list_subtitle_size</item>
+        <item name="inbox_list_date_color">@color/inbox_list_date_color</item>
+        <item name="inbox_list_counter_size">@dimen/list_title_size</item>
+        <item name="inbox_list_counter_color">@color/inbox_list_counter_color</item>
+        <item name="inbox_list_item_background">@drawable/inbox_list_item_background</item>
+        <item name="inbox_list_subitem_left_background">@drawable/inbox_list_subitem_left_background</item>
+        <item name="inbox_list_subitem_right_background">@drawable/inbox_list_subitem_right_background</item>
+        <item name="inbox_list_item_selected">@drawable/inbox_list_item_selected</item>
+        <item name="inbox_list_item_sticky_color">@color/inbox_list_item_sticky_color</item>
+        <item name="inbox_list_btn_call">@drawable/inbox_list_btn_call</item>
+        <item name="inbox_list_btn_delete">@drawable/inbox_list_btn_delete</item>
+        <item name="inbox_list_swipe_left_text_color">@color/inbox_list_swipe_left_text_color</item>
+        <item name="inbox_list_swipe_right_text_color">@color/inbox_list_swipe_right_text_color</item>
+        <item name="inbox_list_checkbox">@drawable/inbox_list_checkbox</item>
+        <item name="tabs_accent_color">@color/tabs_accent_color</item>
+        <item name="tabs_text_color">@color/tabs_text_color</item>
+        <item name="inbox_list_new_message_dot">@drawable/inbox_list_new_message_dot</item>
+        <item name="inbox_list_default_bubble_background">@drawable/inbox_list_default_bubble_background</item>
+        <item name="inbox_list_group_conversation_icon">@drawable/inbox_list_group_conversation_icon</item>
+        <item name="inbox_drawer_left_actionbar_background">@drawable/inbox_drawer_left_actionbar_background</item>
+        <item name="inbox_drawer_left_background">@drawable/inbox_drawer_left_background</item>
+        <item name="inbox_drawer_left_divider_background">@drawable/inbox_drawer_left_divider_background</item>
+        <item name="inbox_drawer_left_list_title_color">@color/inbox_drawer_left_list_title_color</item>
+        <item name="inbox_drawer_left_list_icon_stickers">@drawable/inbox_drawer_left_list_icon_stickers</item>
+        <item name="inbox_drawer_left_list_icon_theme_manager">@drawable/inbox_drawer_left_list_icon_theme_manager</item>
+        <item name="inbox_drawer_left_list_icon_settings">@drawable/inbox_drawer_left_list_icon_settings</item>
+        <item name="inbox_drawer_left_list_icon_secure_box">@drawable/inbox_drawer_left_list_icon_secure_box</item>
+        <item name="inbox_drawer_left_list_icon_archive">@drawable/inbox_drawer_left_list_icon_archive</item>
+        <item name="inbox_drawer_left_list_icon_black_list">@drawable/inbox_drawer_left_list_icon_black_list</item>
+        <item name="inbox_drawer_left_list_icon_rate_sms">@drawable/inbox_drawer_left_list_icon_rate_sms</item>
+        <item name="inbox_drawer_left_list_icon_arrow">@drawable/inbox_drawer_left_list_icon_arrow</item>
+        <item name="inbox_drawer_left_title_background">@color/inbox_drawer_left_title_background</item>
+        <item name="inbox_drawer_left_new_theme_notification_icon">@drawable/inbox_drawer_left_new_theme_notification_icon</item>
+        <item name="inbox_drawer_left_actionbar_title_color">@color/inbox_drawer_left_actionbar_title_color</item>
+        <item name="inbox_drawer_left_secure_menu_item">@drawable/inbox_drawer_left_new_theme_notification_icon</item>
+        <item name="inbox_archive_actionbar_background">@drawable/composer_actionbar_background</item>
+        <item name="inbox_archive_background">@drawable/composer_background</item>
+        <item name="inbox_secure_background">@drawable/composer_background</item>
+        <item name="inbox_archive_btn_back">@drawable/inbox_actionbar_btn_back</item>
+        <item name="inbox_archive_actionbar_button_add_conversation_background">@drawable/inbox_archive_actionbar_button_add_conversation_background</item>
+        <item name="inbox_archive_actionbar_button_remove_conversation_background">@drawable/inbox_archive_actionbar_button_remove_conversation_background</item>
+        <item name="inbox_add_conversation_list_divider">@drawable/inbox_add_conversation_list_divider</item><!-- nu se foloseste -->
+        <item name="inbox_add_conversation_button_add_background">@drawable/inbox_add_conversation_button_add_background</item>
+        <item name="inbox_add_conversation_button_add_text_color">@color/inbox_add_conversation_button_add_text_color</item>
+        <item name="inbox_secure_btn_settings">@drawable/btn_settings</item>
+        <item name="inbox_secure_btn_add_contact">@drawable/inbox_secure_btn_add_contact</item>
+        <item name="inbox_secure_btn_remove_contact">@drawable/inbox_secure_btn_remove_contact</item>
+        <item name="inbox_secure_btn_back">@drawable/inbox_secure_btn_back</item>
+        <item name="inbox_blacklist_btn_add_contact">@drawable/inbox_blacklist_btn_add_contact</item>
+        <item name="inbox_blacklist_btn_remove_contact">@drawable/inbox_blacklist_btn_remove_contact</item>
+        <item name="inbox_blacklist_list_divider">@drawable/inbox_blacklist_list_divider</item>
+        <item name="inbox_blacklist_btn_back">@drawable/inbox_blacklist_btn_back</item>
+        <item name="inbox_blacklist_background">@drawable/composer_actionbar_background</item>
+        <item name="inbox_list_new_ad">@drawable/inbox_list_new_ad</item>
+        <item name="inbox_start_conversation_button_has_shadow">true</item>
+    </style>
+
+    <style name="ComposerTheme">
+        <item name="composer_default_color">@color/composer_default_color</item>
+        <item name="composer_accent_color">@color/composer_accent_color</item>
+        <item name="composer_actionbar_quick_reply">@color/composer_actionbar_quick_reply</item>
+        <item name="composer_actionbar_background">@drawable/composer_actionbar_background</item>
+        <item name="composer_actionbar_title_color">@color/composer_actionbar_title_color</item>
+        <item name="composer_actionbar_title_size">@dimen/composer_actionbar_title_size</item>
+        <item name="composer_actionbar_btn_back">@drawable/composer_actionbar_btn_back</item>
+        <item name="composer_actionbar_btn_call">@drawable/composer_actionbar_btn_call</item>
+        <item name="composer_actionbar_btn_menu">@drawable/composer_actionbar_btn_menu</item>
+        <item name="composer_actionbar_btn_selectall">@drawable/composer_actionbar_btn_selectall</item>
+        <item name="composer_background">@drawable/composer_background</item>
+        <item name="composer_background_archive">@drawable/composer_background</item>
+        <item name="composer_background_secure">@drawable/composer_background</item>
+        <item name="composer_list_subtitle_size">@dimen/composer_list_subtitle_size</item>
+        <item name="composer_list_subtitle_color">@color/composer_list_subtitle_color</item>
+        <item name="composer_list_message_opponent_color">@color/composer_list_message_opponent_color</item>
+        <item name="composer_list_date_background_big">@color/composer_list_date_background_big</item>
+        <item name="composer_list_date_background_small">@color/composer_list_date_background_small</item>
+        <item name="composer_list_date_size">@dimen/composer_list_date_size</item>
+        <item name="composer_list_date_color">@color/composer_list_date_color</item>
+        <item name="composer_list_date_hour">@drawable/composer_list_date_hour</item><!-- in conversatie background TIMP -->
+        <item name="composer_list_date_month">@drawable/composer_list_date_month</item>
+        <item name="composer_list_mybubble">@drawable/composer_list_mybubble</item>
+        <item name="composer_list_bubble">@drawable/composer_list_bubble</item>
+        <item name="composer_list_name_holder_background">@drawable/composer_list_name_holder_background</item>
+        <item name="composer_emoji_button_background">@drawable/composer_emoji_button_background</item>
+        <item name="composer_stickers_button_background">@drawable/composer_stickers_button_background</item>
+        <item name="composer_send_button_background">@drawable/composer_send_button_background</item>
+        <item name="composer_attach_button_background">@drawable/composer_attach_button_background</item>
+        <item name="composer_input_background">@drawable/composer_input_background</item>
+        <item name="composer_input_text_color">@color/composer_input_text_color</item>
+        <item name="composer_input_text_hint_color">@color/composer_input_text_hint_color</item>
+        <item name="composer_input_text_background">@drawable/composer_input_text_background</item>
+        <item name="composer_list_checkbox">@drawable/composer_list_checkbox</item>
+        <item name="composer_edit_menu_background">@drawable/composer_edit_menu_background</item>
+        <item name="composer_edit_menu_icon_delete">@drawable/composer_edit_menu_icon_delete</item>
+        <item name="composer_edit_menu_icon_forward">@drawable/composer_edit_menu_icon_forward</item>
+        <item name="composer_edit_menu_icon_copy">@drawable/composer_edit_menu_icon_copy</item>
+        <item name="composer_edit_menu_icon_secure_box">@drawable/composer_edit_menu_icon_secure_box</item>
+        <item name="composer_edit_menu_text_color">@color/composer_edit_menu_text_color</item>
+        <item name="composer_menu_button_background">@drawable/composer_menu_button_background</item>
+        <item name="composer_button_background">@drawable/composer_button_background</item>
+        <item name="composer_list_link_text_color">@color/composer_list_link_text_color</item>
+        <item name="composer_poligon_background">@drawable/composer_contact_menu_poligon_background</item>
+        <item name="composer_rounded_button">@drawable/composer_rounded_button</item>
+        <item name="composer_list_unknown_contact_icon">@drawable/composer_list_unknown_contact_icon</item>
+        <item name="composer_list_my_unknown_contact_icon">@drawable/composer_list_my_unknown_contact_icon</item>
+        <item name="composer_list_alert_icon">@drawable/composer_list_alert_icon</item>
+        <item name="composer_list_default_background">@drawable/composer_list_default_background</item>
+        <item name="composer_attach_background">@drawable/composer_attach_background</item>
+        <item name="composer_audio_text_color">@color/composer_audio_text_color</item>
+        <item name="composer_attach_icon_gif">@drawable/composer_attach_icon_gif</item>
+        <item name="composer_attach_icon_image">@drawable/composer_attach_icon_image</item>
+        <item name="composer_attach_icon_quick_text">@drawable/composer_attach_icon_quick_text</item>
+        <item name="composer_attach_icon_scheduled">@drawable/composer_attach_icon_scheduled</item>
+        <item name="composer_attach_icon_contact">@drawable/composer_attach_icon_contact</item>
+        <item name="composer_attach_icon_audio">@drawable/composer_attach_icon_audio</item>
+        <item name="composer_attach_icon_locker">@drawable/composer_attach_icon_locker</item>
+        <item name="composer_attach_icon_keyboard">@drawable/composer_attach_icon_keyboard</item>
+        <item name="composer_attach_text_color">@color/composer_attach_text_color</item>
+        <item name="composer_new_message_top_background">@drawable/composer_new_message_top_background</item>s
+        <item name="composer_new_message_top_edit_text_background">@drawable/composer_new_message_top_edit_text_background</item>
+        <item name="composer_new_message_top_edit_text_hint_color">@color/composer_new_message_top_edit_text_hint_color
+        </item>
+        <item name="composer_new_message_top_edit_text_color">@color/composer_new_message_top_edit_text_color</item>
+        <item name="composer_new_message_top_text_color">@color/composer_new_message_top_list_text_color</item>
+        <item name="composer_new_message_top_list_text_color">@color/composer_new_message_top_list_text_color</item>
+        <item name="composer_new_message_top_list_text_background">@drawable/composer_new_message_top_list_text_background</item>
+        <item name="composer_list_letter_icon_color">@color/composer_list_letter_icon_color
+        </item>
+        <item name="composer_quickreply_btn_default">@drawable/composer_quickreply_btn_default</item>
+        <item name="composer_quickreply_left_arrow">@drawable/composer_quickreply_left_arrow</item>
+        <item name="composer_quickreply_right_arrow">@drawable/composer_quickreply_right_arrow</item>
+        <item name="composer_quickreply_date_background">@drawable/composer_quickreply_date_background</item>
+        <item name="composer_quickreply_messages_counter_background">@drawable/composer_quickreply_messages_counter_background</item>
+        <item name="composer_quickreply_messages_counter_text_color">
+            @color/composer_quickreply_messages_counter_text_color
+        </item>
+        <item name="composer_quickreply_letter_text_color">
+            @color/composer_quickreply_letter_text_color
+        </item>
+        <item name="composer_quickreply_btn_close">@drawable/composer_quickreply_btn_close</item>
+        <item name="composer_quickreply_btn_send">@drawable/composer_quickreply_btn_send</item>
+        <item name="composer_quickreply_text_color">@color/composer_quickreply_text_color</item>
+        <item name="composer_quickreply_text_date_color">@color/composer_quickreply_text_date_color</item>
+        <item name="composer_quickreply_text_title_color">
+            @color/composer_quickreply_text_title_color
+        </item>
+        <item name="composer_quickreply_text_sub_title_color">@color/composer_quickreply_text_sub_title_color</item>
+        <item name="composer_quickreply_btn_default_text_color">
+            @color/composer_quickreply_btn_default_text_color
+        </item>
+        <item name="composer_quickreply_edit_text_background">@drawable/composer_quickreply_edit_text_background</item>
+        <item name="composer_quickreply_edit_text_color">@color/composer_quickreply_edit_text_color</item>
+        <item name="composer_quickreply_edit_text_hint_color">@color/composer_quickreply_edit_text_hint_color</item>
+        <item name="composer_quickreply_divider">@drawable/composer_quickreply_divider</item>
+        <item name="composer_quickreply_actionbar_background">@drawable/composer_quickreply_actionbar_background</item>
+        <item name="composer_quickreply_background">@drawable/composer_quickreply_background</item>
+        <item name="composer_quickreply_actionbar_default_contact_background">@drawable/composer_quickreply_actionbar_default_contact_background</item>
+        <item name="composer_quickreply_actionbar_default_unknown_background">@drawable/composer_quickreply_actionbar_default_unknown_background</item>
+        <item name="composer_contact_menu_poligon_background">@drawable/composer_contact_menu_poligon_background</item>
+        <item name="composer_contact_menu_button_background">@drawable/composer_contact_menu_button_background
+        </item>
+        <item name="composer_contact_menu_text_color">@color/composer_contact_menu_text_color
+        </item>
+        <item name="composer_contact_menu_divider_background">@drawable/composer_contact_menu_divider_background</item>
+        <item name="composer_contact_menu_checkbox_background">@drawable/composer_contact_menu_checkbox_background</item>
+        <item name="composer_add_media_check_box_icon">@drawable/composer_add_media_check_box_icon</item>
+        <item name="composer_recorder_icon">@drawable/btn_recorder_unpressed</item>
+        <item name="composer_giphy_tag">@drawable/composer_giphy_tag</item>
+    </style>
+
+
+
+</resources>
+
+

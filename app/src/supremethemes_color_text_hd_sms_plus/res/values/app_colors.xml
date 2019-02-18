@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- INBOX  -->
+    <color name="app_accent_color">#000000</color>
+    <color name="inbox_actionbar_title_color">#00ffffff</color>   <!-- INBOX TITLE -->
+    <color name="inbox_search_box_text_color">#ffffff</color>   <!-- SEARCH TEXT -->
+    <color name="inbox_search_box_text_hint_color">#8286ffd5</color>  <!-- SEARCH TEXT -->
+    <color name="inbox_floating_button_icons_background">#b30300</color>    <!-- INBOX FLOAT BUTTONS  -->
+    <color name="inbox_layout_undo_textview_text_color">#ffffff</color> <!-- CULOARE TEXT PESTE BUTONUL DE "CONVERSATION DELETED"-->
+    <color name="inbox_layout_undo_button_text_color">#ffffff</color> <!-- CULOARE TEXT PESTE BUTONUL DE "UNDO"-->
+    <color name="inbox_btn_default_text_color">#ffffff</color>  <!--CULOARE TEXT PESTE BUTONUL DE : REMOVE SELECTED CONVERSATIONS ( apare DOAR in secure box) -->
+    <color name="inbox_list_subitem_right_background">#000000</color>   <!-- SWIPE RIGHT background -->
+    <color name="inbox_list_subitem_left_background">#000000</color>    <!-- SWIPE LEFT background-->
+    <color name="inbox_list_swipe_left_text_color">#ffffff</color>  <!-- SWIPE left text-->
+    <color name="inbox_list_swipe_right_text_color">#ffffff</color> <!-- SWIPE right text-->
+    <color name="inbox_list_title_color">#00ff6f</color>    <!-- row 1 citit -->
+    <color name="inbox_list_title_notread_color">#ff00d9</color>    <!-- row 1 necitit -->
+    <color name="inbox_list_subtitle_color">#00f7ff</color> <!-- row 2 -->
+    <color name="inbox_list_date_color">#00ff6f</color>   <!-- data inbox -->
+    <color name="inbox_list_counter_color">#00f7ff</color>  <!-- send message -->
+    <color name="inbox_list_item_sticky_color">#8100f7ff</color>  <!-- SET AS STICKY -->
+    <color name="inbox_drawer_left_list_title_color">#00ff62</color>    <!-- LEFT DRAWER -  Culoare meniuri text  -->
+    <color name="inbox_list_item_selected">#7700f7ff</color>    <!-- cand dai click pe conversatie -->
+    <color name="inbox_drawer_left_title_background">#FFFFFF</color><!-- ?? -->
+    <color name="inbox_drawer_left_actionbar_title_color">#FFFFFF</color><!-- ?? -->
+
+
+    <!-- INITIALE AVATAR-->
+    <color name="inbox_list_letter_color">#00d5d5d5</color> <!-- INITIALA AVATAR INBOX -->
+    <color name="composer_list_letter_icon_color">#00d5d5d5</color> <!-- INITIALA AVATAR IN CONVERSATIE -->
+    <color name="composer_quickreply_letter_text_color">#00d5d5d5</color>   <!-- INITIALA AVATAR IN POPUP -->
+
+    <!--Composer-->
+    <color name="composer_actionbar_title_color">#02f0ff</color>    <!-- COMPOSER TOP TITLE -->
+    <color name="composer_list_subtitle_color">#001e1b</color>  <!-- OUTCOMING MESSAGE -->
+    <color name="composer_list_message_opponent_color">#ffed66</color>  <!-- INCOMING MESSAGE -->
+    <color name="composer_list_date_color">#00ccff</color><!--  DATA TEXT COLOR IN CONVERSATION-->
+    <color name="composer_input_text_color">#ffffff</color> <!-- COMPOSER - jos cand introduci textul -->
+    <color name="composer_input_text_hint_color">#8b001820</color>    <!-- COMPOSER- TYPE TO COMPOSE TEXT -->
+    <color name="composer_edit_menu_background">#0393ff</color> <!-- DELETE FORWARD COPY SECURE BOX  BACKGROUND -->
+    <color name="composer_edit_menu_text_color">#18123c</color> <!-- DELETE FORWARD COPY SECURE BOX  TEXT -->
+    <color name="composer_attach_background">#0393ff</color>    <!-- ATTACH BACKGROUND -->
+    <color name="composer_attach_text_color">#1a143d</color>    <!-- ATTACH TEXT -->
+    <color name="composer_audio_text_color">#ffffff</color> <!-- COUNTER LA VOICE RECORDER DIN ATTACH MENU -->
+    <color name="composer_contact_menu_button_background">#0393ff</color> <!-- DROP DOWN MENU CONTACT PANEL   background-->
+    <color name="composer_contact_menu_text_color">#1b1544</color>  <!-- DROP DOWN MENU CONTACT PANEL   text-->
+    <color name="composer_contact_menu_divider_background">#92ffffff</color><!-- DROP DOWN MENU CONTACT divider (momentan nu se schimba) -->
+    <color name="btn_state_unpressed_square">#003964</color>    <!-- BTN SQUARE starea NORMALA -->
+    <color name="btn_state_pressed_square">#00203d</color>  <!-- BTN SQUARE starea PRESSED -->
+    <color name="composer_list_link_text_color">#fff700</color> <!-- LINK -->
+    <color name="composer_new_message_top_edit_text_hint_color">#8effffff</color> <!-- COMPOSE NEW MESSAGE  TYPE TO COMPOSE TEXT -->
+    <color name="composer_new_message_top_edit_text_color">#ffffff</color>  <!-- COMPOSE NEW MESSAGE  jos cand introduci textul -->
+    <color name="composer_newasda_message_top_text_color">#ffffff</color>   <!-- COMPOSE NEW MESSAGE "TO" -->
+    <color name="composer_new_message_top_list_text_color">#FFFFFF</color>  <!-- ?? -->
+    <color name="composer_list_date_background_small">#3D4263</color> <!-- ?? -->
+
+
+
+    <!--  POPUP  -->
+    <color name="composer_quickreply_messages_counter_text_color">#ffffff</color><!-- COUNTER LIMBA -->
+    <color name="composer_quickreply_text_color">#00ff80</color>    <!-- CULOARE MESAJ POPUP -->
+    <color name="composer_quickreply_text_date_color">#00ff80</color>   <!-- DATA POPUP -->
+    <color name="composer_quickreply_text_title_color">#00ff80</color>  <!-- CONTACT COLOR -->
+    <color name="composer_quickreply_text_sub_title_color">#02fcf4</color>  <!-- CONTACT NUMBER COLOR -->
+    <color name="composer_quickreply_btn_default_text_color">#041a1e</color>    <!-- CULOARE BUTOANE POPUP -->
+    <color name="composer_quickreply_edit_text_color">#00ff80</color>   <!-- jos cand introduci textul -->
+    <color name="composer_quickreply_edit_text_hint_color">#9affffff</color>  <!--  TYPE TO COMPOSE TEXT -->
+	<color name="bubble_indicator_selected">#fff266</color>  <!--  bubble indicator selected -->
+    <color name="bubble_indicator_unselected">#ff9900</color>  <!--  bubble indicator unselected -->
+
+
+    <!-- CULORI CARE NU SE FOLOSESC SAU NU TREBUIESC MODIFICATE -->
+    <!-- CULORI CARE NU SE FOLOSESC SAU NU TREBUIESC MODIFICATE -->
+    <!-- CULORI CARE NU SE FOLOSESC SAU NU TREBUIESC MODIFICATE -->
+    <!-- CULORI CARE NU SE FOLOSESC SAU NU TREBUIESC MODIFICATE -->
+    <color name="app_default_color">#00ff2a</color><!-- NU ESTE FOLOSIT MOMENTAN -->
+    <color name="tabs_text_color">#FFFFFF</color> <!-- SA RAMANA ALB -->
+    <color name="inbox_add_conversation_button_add_text_color">#FFFFFF</color> <!-- SA RAMANA ALB -->
+    <color name="composer_default_color">#FFFFFF</color><!-- NU ESTE FOLOSIT MOMENTAN -->
+    <color name="composer_accent_color">#FFFFFF</color><!-- NU ESTE FOLOSIT MOMENTAN -->
+    <color name="composer_actionbar_quick_reply">#FFFFFF</color><!-- NU ESTE FOLOSIT MOMENTAN -->
+    <color name="composer_list_date_background_big">#00FFFFFF</color><!-- NU ESTE FOLOSIT MOMENTAN -->
+    <color name="tabs_accent_color">#ffbe08</color><!-- a nu se modifica! trebuie sa ramana galben-->
+    <color name="inbox_floating_button_color_accent">#00ebebeb</color><!-- ?? -->
+    <color name="inbox_floating_button_color_accent_pressed">#00ebebeb</color><!-- ?? -->
+    <color name="inbox_floating_button_color_ripple">#00ebebeb</color><!-- ?? -->
+    <color name="inbox_floating_button_icons_background_shadow">#0026a69a</color><!-- ?? -->
+</resources>
