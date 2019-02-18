@@ -74,6 +74,38 @@ android {
             playAccountConfig = playAccountConfigs.SupremeAccountConfig
             flavorDimensions "default"
         }
+        supremethemes_color_text_hd_sms_plus {
+            applicationId "com.supremethemes.colortexthd.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.supremethemes
+            playAccountConfig = playAccountConfigs.SupremeAccountConfig
+            flavorDimensions "default"
+        }
+        upremethemes_plus_orange_sms_plus {
+            applicationId "com.supremethemes.plusorange.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.supremethemes
+            playAccountConfig = playAccountConfigs.SupremeAccountConfig
+            flavorDimensions "default"
+        }
+        supremethemes_blackclassic_sms_plus {
+            applicationId "com.supremethemes.blackclassichd.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.supremethemes
+            playAccountConfig = playAccountConfigs.SupremeAccountConfig
+            flavorDimensions "default"
+        }
+        supremethemes_pink_black_sms_plus {
+            applicationId "com.supremethemes.pinkblack.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.supremethemes
+            playAccountConfig = playAccountConfigs.SupremeAccountConfig
+            flavorDimensions "default"
+        }
 
     }
 }
