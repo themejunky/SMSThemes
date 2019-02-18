@@ -42,9 +42,9 @@ android {
     }
 
     playAccountConfigs {
-        PerfectAccountConfig {
-            serviceAccountEmail = 'googleplayandroiddeveloper@api-6760245939149457068-817945.iam.gserviceaccount.com'
-            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-dfd3770c61ca.p12')
+        PremierAccountConfig {
+            serviceAccountEmail = 'google-developer@api-7561376902246357375-5115.iam.gserviceaccount.com'
+            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-31211e6c9ed5.p12')
         }
     }
     play {
@@ -52,14 +52,13 @@ android {
     }
 
     signingConfigs {
-        perfectthemes {
+        premierthemes {
             Properties props = new Properties()
-            props.load(new FileInputStream(file("../keystore/perfectthemes.properties")))
+            props.load(new FileInputStream(file("../keystore/premierthemes.properties")))
             storeFile file(props['key.store'])
             storePassword props['key.store.password']
             keyAlias props['key.alias']
             keyPassword props['key.alias.password']
-
         }
     }
 
@@ -67,28 +66,12 @@ android {
         enabled = true
     }
     productFlavors {
-        perfectthemes_blackclock_sms_plus {
-            applicationId "com.sms.perfectthemes.blackclock.app"
+        premierthemes_aquarium_sms_plus {
+            applicationId "com.premierthemes.aquarium.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
-            signingConfig signingConfigs.perfectthemes
-            playAccountConfig = playAccountConfigs.PerfectAccountConfig
-            flavorDimensions "default"
-        }
-        perfectthemes_freebutterfly_sms_plus {
-            applicationId "com.sms.perfectthemes.freebutterfly.app"
-            versionCode rootProject.ext.themeVersionCode
-            versionName rootProject.ext.themeVersionName
-            signingConfig signingConfigs.perfectthemes
-            playAccountConfig = playAccountConfigs.PerfectAccountConfig
-            flavorDimensions "default"
-        }
-        perfectthemes_freevampire_sms_plus {
-            applicationId "com.sms.perfectthemes.freevampire.app"
-            versionCode rootProject.ext.themeVersionCode
-            versionName rootProject.ext.themeVersionName
-            signingConfig signingConfigs.perfectthemes
-            playAccountConfig = playAccountConfigs.PerfectAccountConfig
+            signingConfig signingConfigs.premierthemes
+            playAccountConfig = playAccountConfigs.PremierAccountConfig
             flavorDimensions "default"
         }
 
