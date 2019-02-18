@@ -42,9 +42,9 @@ android {
     }
 
     playAccountConfigs {
-        UltimateThemesAccountConfig {
-            serviceAccountEmail = 'google-developer@api-5289373851224700174-46971.iam.gserviceaccount.com'
-            pk12File = file('C:\\Users\\ZTS\\Documents\\ThemesAppKotlin\\p12keys\\GooglePlayAndroidDeveloper-df7974f31e06.p12')
+        EpicAccountConfig {
+            serviceAccountEmail = 'google-developer@api-5614027471629811944-569204.iam.gserviceaccount.com'
+            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-08231d7e9fb9.p12')
         }
     }
     play {
@@ -52,9 +52,9 @@ android {
     }
 
     signingConfigs {
-        ultimatethemes {
+        epicthemes {
             Properties props = new Properties()
-            props.load(new FileInputStream(file("../keystore/ultimatethemes.properties")))
+            props.load(new FileInputStream(file("../keystore/epicthemes.properties")))
             storeFile file(props['key.store'])
             storePassword props['key.store.password']
             keyAlias props['key.alias']
@@ -66,12 +66,12 @@ android {
         enabled = true
     }
     productFlavors {
-        ultimatethemes_blueflame_sms_plus {
-            applicationId "com.ultimatethemes.blueflame.app"
+        epicthemes_pink_black_pro_sms_plus {
+            applicationId "com.sms.epicthemes.pinkblackpro.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
-            signingConfig signingConfigs.ultimatethemes
-            playAccountConfig = playAccountConfigs.UltimateThemesAccountConfig
+            signingConfig signingConfigs.epicthemes
+            playAccountConfig = playAccountConfigs.EpicAccountConfig
             flavorDimensions "default"
         }
 
