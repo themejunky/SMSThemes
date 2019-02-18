@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <string name="app_name">Flaming Skull SMS Plus</string>
+    <string name="theme_name">Flaming Skull SMS Plus</string>
+    <string name="theme_description">Description</string>
+
+
+    <string name="font_name">Dosis-Medium.ttf</string>
+    <string name="font_asset">Dosis-Medium.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">Dosis-SemiBold.ttf</string>
+    <string name="font_montserrat_regular">Dosis-Medium.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-flamingskull-11e1-9b23-0800200c9a84</string>
+
+
+    <string name="hash">035ea25838e70552654c74e65ec08b20078d10124126814cbfe77d906d01d3c0</string>
+
+
+    <string name="splash_title">Splash TItle</string>
+</resources>
