@@ -44,7 +44,7 @@ android {
     playAccountConfigs {
         TopAccountConfig {
             serviceAccountEmail = 'google-play-android-developer@api-4735760116336174641-890253.iam.gserviceaccount.com'
-            pk12File = file('C:\\Users\\ZTS\\Documents\\ThemesAppKotlin\\p12keys\\GooglePlayAndroidDeveloper-26451fe3d83a.p12')
+            pk12File = file('C:\\Users\\ZTS\\Documents\\SMSThemes\\p12keys\\GooglePlayAndroidDeveloper-26451fe3d83a.p12')
         }
     }
     play {
@@ -68,6 +68,46 @@ android {
     productFlavors {
         topthemes_topflame_sms_plus {
             applicationId "com.topthemes.sms.topflame.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.topthemes
+            playAccountConfig = playAccountConfigs.TopAccountConfig
+            flavorDimensions "default"
+        }
+        topthemes_freecuteowl_sms_plus {
+            applicationId "com.topthemes.sms.freecuteowl.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.topthemes
+            playAccountConfig = playAccountConfigs.TopAccountConfig
+            flavorDimensions "default"
+        }
+        topthemes_topfire_sms_plus {
+            applicationId "com.topthemes.sms.topfire.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.topthemes
+            playAccountConfig = playAccountConfigs.TopAccountConfig
+            flavorDimensions "default"
+        }
+        topthemes_garden_sms_plus {
+            applicationId "com.topthemes.sms.topgarden.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.topthemes
+            playAccountConfig = playAccountConfigs.TopAccountConfig
+            flavorDimensions "default"
+        }
+        topthemes_paris_sms_plus {
+            applicationId "com.topthemes.sms.paris.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.topthemes
+            playAccountConfig = playAccountConfigs.TopAccountConfig
+            flavorDimensions "default"
+        }
+        topthemes_colorfulgraffiti_sms_plus {
+            applicationId "com.topthemes.sms.colorfulgraffiti.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
             signingConfig signingConfigs.topthemes
