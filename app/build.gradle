@@ -42,9 +42,9 @@ android {
     }
 
     playAccountConfigs {
-        SupremeAccountConfig {
-            serviceAccountEmail = 'google-developer@api-5266842791779864083-649044.iam.gserviceaccount.com'
-            pk12File = file('../p12keys/GooglePlayAndroidDeveloper-832fd15c6212.p12')
+        TopAccountConfig {
+            serviceAccountEmail = 'google-play-android-developer@api-4735760116336174641-890253.iam.gserviceaccount.com'
+            pk12File = file('C:\\Users\\ZTS\\Documents\\ThemesAppKotlin\\p12keys\\GooglePlayAndroidDeveloper-26451fe3d83a.p12')
         }
     }
     play {
@@ -52,9 +52,9 @@ android {
     }
 
     signingConfigs {
-        supremethemes {
+        topthemes {
             Properties props = new Properties()
-            props.load(new FileInputStream(file("../keystore/supreme.properties")))
+            props.load(new FileInputStream(file("../keystore/topthemes.properties")))
             storeFile file(props['key.store'])
             storePassword props['key.store.password']
             keyAlias props['key.alias']
@@ -66,12 +66,12 @@ android {
         enabled = true
     }
     productFlavors {
-        supremethemes_panda_gold_glitter_sms_plus {
-            applicationId "com.supremethemes.pandagoldglitter.app"
+        topthemes_topflame_sms_plus {
+            applicationId "com.topthemes.sms.topflame.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
-            signingConfig signingConfigs.supremethemes
-            playAccountConfig = playAccountConfigs.SupremeAccountConfig
+            signingConfig signingConfigs.topthemes
+            playAccountConfig = playAccountConfigs.TopAccountConfig
             flavorDimensions "default"
         }
 

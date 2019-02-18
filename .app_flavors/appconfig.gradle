@@ -1,4 +1,4 @@
-SupremeAccountConfig {
-    serviceAccountEmail = 'google-developer@api-5266842791779864083-649044.iam.gserviceaccount.com'
-    pk12File = file('../p12keys/GooglePlayAndroidDeveloper-832fd15c6212.p12')
+TopAccountConfig {
+    serviceAccountEmail = 'google-play-android-developer@api-4735760116336174641-890253.iam.gserviceaccount.com'
+    pk12File = file('C:\\Users\\ZTS\\Documents\\FlavorsThemeManager\\p12keys\\GooglePlayAndroidDeveloper-26451fe3d83a.p12')
 }

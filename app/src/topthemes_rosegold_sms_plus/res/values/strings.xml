@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <string name="app_name">Rose Gold SMS Plus</string>
+    <string name="theme_name">Rose Gold SMS Plus</string>
+    <string name="theme_description">Enjoy!</string>
+
+
+    <string name="font_name">Delius-Regular.ttf</string>
+    <string name="font_asset">Delius-Regular.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">Delius-Regular.ttf</string>
+    <string name="font_montserrat_regular">Delius-Regular.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-topthemes-rosegold-0800200c9a84</string>
+
+
+    <string name="hash">035ea25838e70552654c74e65ec08b20078d10124126814cbfe77d906d01d3c0</string>
+
+
+    <string name="splash_title">Splash TItle</string>
+</resources>
