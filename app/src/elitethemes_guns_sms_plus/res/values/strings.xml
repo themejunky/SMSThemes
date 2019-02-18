@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <string name="app_name">SMS Guns</string>
+    <string name="theme_name">SMS Guns</string>
+    <string name="theme_description">Enjoy!</string>
+
+
+    <string name="font_name">Electrolize-Regular.ttf</string>
+    <string name="font_asset">Electrolize-Regular.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">Electrolize-Regular.ttf</string>
+    <string name="font_montserrat_regular">Electrolize-Regular.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-elitethemes-league-0800200c9a84</string>
+
+
+    <string name="hash">theme-ac8ea510-ca66-elitethemes-guns-0800200c9a84</string>
+
+
+    <string name="splash_title">Splash TItle</string>
+</resources>

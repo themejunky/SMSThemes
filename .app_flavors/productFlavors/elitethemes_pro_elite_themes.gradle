@@ -1,0 +1,303 @@
+//proelitethemes@yahoo.com madalina313
+
+
+/*<meta-data
+android:name="io.fabric.ApiKey"
+android:value="026e6d483ab223e27f1f1bb0701b54f4aafef543" />*/
+
+elitethemes_aquarium_sms_plus {
+    applicationId "com.sms.elitethemes.aquarium.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_fancy_sms_plus {
+    applicationId "com.sms.elitethemes.fancy.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_guns_sms_plus {
+    applicationId "com.sms.elitethemes.guns.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_league_sms_plus {
+    applicationId "com.sms.elitethemes.league.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_virtual_sms_plus {
+    applicationId "com.sms.elitethemes.virtual.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_neonblue_sms_plus {
+    applicationId "com.sms.elitethemes.neonblue.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_neon_colors_sms_plus {
+    applicationId "com.sms.elitethemes.neoncolors.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_american_sms_plus {
+    applicationId "com.sms.elitethemes.american.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_animals_sms_plus {
+    applicationId "com.sms.elitethemes.animals.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_butterfly_sms_plus {
+    applicationId "com.sms.elitethemes.butterfly.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_emoji_sms_plus {
+    applicationId "com.sms.elitethemes.emoji.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_flowers_sms_plus {
+    applicationId "com.sms.elitethemes1.flowers.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_glass_sms_plus {
+    applicationId "com.sms.elitethemes.flowers.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_joker_sms_plus {
+    applicationId "com.sms.elitethemes.joker.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_ladybug_sms_plus {
+    applicationId "com.sms.elitethemes.ladybug.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_luxury_sms_plus {
+    applicationId "com.sms.elitethemes.luxury.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_pinkbow_sms_plus {
+    applicationId "com.sms.elitethemes.pinkbow.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_rasta_sms_plus {
+    applicationId "com.sms.elitethemes.rasta.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_shiny_gold_sms_plus {
+    applicationId "com.sms.elitethemes.shinygold.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_skulls_sms_plus {
+    applicationId "com.sms.elitethemes.skulls.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_colors_art_sms_plus {
+    applicationId "com.sms.elitethemes1.colorsart.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_cute_panda_sms_plus {
+    applicationId "com.sms.elitethemes.cutepanda.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_cute_zebra_sms_plus {
+    applicationId "com.sms.elitethemes.cutezebra.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_electric_lights_sms_plus {
+    applicationId "com.sms.elitethemes.electriclights.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_cute_panda_sms_plus {
+    applicationId "com.sms.elitethemes.cutepanda.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_cute_zebra_sms_plus {
+    applicationId "com.sms.elitethemes.cutezebra.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_electric_lights_sms_plus {
+    applicationId "com.sms.elitethemes.electriclights.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_flaming_skull_sms_plus {
+    applicationId "com.sms.elitethemes.flamingskull.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_pink_love_sms_plus {
+    applicationId "com.sms.elitethemes.pinklove.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_soft_mint_sms_plus {
+    applicationId "com.sms.elitethemes.softmint.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_freecutepuppy_sms_plus {
+    applicationId "com.sms.elitethemes.freecutepuppy.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_freeneonblue_sms_plus {
+    applicationId "com.sms.elitethemes.freeneonblue.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_bestneonpink_sms_plus {
+    applicationId "com.sms.elitethemes.bestneonpink.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_cutekitty_kawaii_sms_plus {
+    applicationId "com.sms.elitethemes.cutekitty.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_robot_sms_plus {
+    applicationId "com.sms.elitethemes.robot.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_magic_fire_sms_plus {
+    applicationId "com.sms.elitethemes.magicfire.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}
+elitethemes_thanksgiving_sms_plus {
+    applicationId "com.sms.elitethemes.thanksgiving.app"
+    versionCode rootProject.ext.themeVersionCode
+    versionName rootProject.ext.themeVersionName
+    signingConfig signingConfigs.elitethemes
+    playAccountConfig = playAccountConfigs.EliteAccountConfig
+    flavorDimensions "default"
+}

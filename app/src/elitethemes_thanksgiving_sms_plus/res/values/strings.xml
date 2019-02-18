@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <string name="app_name">Thanksgiving SMS Plus</string>
+    <string name="theme_name">Thanksgiving SMS Plus</string>
+    <string name="theme_description">Enjoy!</string>
+
+
+    <string name="font_name">CroissantOne-Regular.ttf</string>
+    <string name="font_asset">CroissantOne-Regular.ttf</string>
+
+    <!--Inbox theme texts-->
+    <string name="font_montserrat_bold">CroissantOne-Regular.ttf</string>
+    <string name="font_montserrat_regular">CroissantOne-Regular.ttf</string>
+
+
+    <string name="theme_id">theme-ac8ea510-ca66-elitethemes-thanksgiving-0800200c9a84</string>
+
+
+    <string name="hash">035ea25838e70552654c74e65ec08b20078d10124126814cbfe77d906d01d3c0</string>
+
+
+    <string name="splash_title">Thanksgiving SMS Plus</string>
+</resources>

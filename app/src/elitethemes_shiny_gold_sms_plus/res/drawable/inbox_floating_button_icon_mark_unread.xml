@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/unread_pressed" android:state_focused="true" android:state_pressed="true" />
+    <item android:drawable="@drawable/unread_pressed" android:state_pressed="true" />
+    <item android:drawable="@drawable/unread_pressed" android:state_selected="true" />
+    <item android:drawable="@drawable/unread" />
+
+</selector><!-- From: file:/C:/CIPRIAN/00_SMS_Plus/02%20Teme%20Green/app/src/main/res/drawable/inbox_floating_button_icon_mark_unreading_button_icon_mark_unread.xml -->

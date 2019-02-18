@@ -1,4 +1,4 @@
-EpicAccountConfig {
-    serviceAccountEmail = 'google-developer@api-5614027471629811944-569204.iam.gserviceaccount.com'
-    pk12File = file('../p12keys/GooglePlayAndroidDeveloper-08231d7e9fb9.p12')
+EliteAccountConfig {
+    serviceAccountEmail = 'google-developer@api-6218359887930772259-636285.iam.gserviceaccount.com'
+    pk12File = file('../p12keys/GooglePlayAndroidDeveloper-dccaf8023586.p12')
 }
