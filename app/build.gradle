@@ -74,6 +74,46 @@ android {
             playAccountConfig = playAccountConfigs.EliteAccountConfig
             flavorDimensions "default"
         }
+        elitethemes_emoji_sms_plus {
+            applicationId "com.sms.elitethemes.emoji.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.elitethemes
+            playAccountConfig = playAccountConfigs.EliteAccountConfig
+            flavorDimensions "default"
+        }
+        elitethemes_ladybug_sms_plus {
+            applicationId "com.sms.elitethemes.ladybug.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.elitethemes
+            playAccountConfig = playAccountConfigs.EliteAccountConfig
+            flavorDimensions "default"
+        }
+        elitethemes_pinkbow_sms_plus {
+            applicationId "com.sms.elitethemes.pinkbow.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.elitethemes
+            playAccountConfig = playAccountConfigs.EliteAccountConfig
+            flavorDimensions "default"
+        }
+        elitethemes_rasta_sms_plus {
+            applicationId "com.sms.elitethemes.rasta.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.elitethemes
+            playAccountConfig = playAccountConfigs.EliteAccountConfig
+            flavorDimensions "default"
+        }
+        elitethemes_thanksgiving_sms_plus {
+            applicationId "com.sms.elitethemes.thanksgiving.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.elitethemes
+            playAccountConfig = playAccountConfigs.EliteAccountConfig
+            flavorDimensions "default"
+        }
 
     }
 }
