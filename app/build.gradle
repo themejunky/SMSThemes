@@ -66,8 +66,8 @@ android {
         enabled = true
     }
     productFlavors {
-        epicthemes_pink_black_pro_sms_plus {
-            applicationId "com.sms.epicthemes.pinkblackpro.app"
+        epicthemes_wolf_sms_plus {
+            applicationId "com.sms.epicthemes.wolf.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
             signingConfig signingConfigs.epicthemes
