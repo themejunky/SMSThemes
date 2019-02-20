@@ -66,8 +66,24 @@ android {
         enabled = true
     }
     productFlavors {
-        premierthemes_aquarium_sms_plus {
-            applicationId "com.premierthemes.aquarium.app"
+        premierthemes_darkskulls_sms_plus {
+            applicationId "com.premierthemes.darkskulls.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.premierthemes
+            playAccountConfig = playAccountConfigs.PremierAccountConfig
+            flavorDimensions "default"
+        }
+        premierthemes_ladybug_sms_plus {
+            applicationId "com.premierthemes.ladybug.app"
+            versionCode rootProject.ext.themeVersionCode
+            versionName rootProject.ext.themeVersionName
+            signingConfig signingConfigs.premierthemes
+            playAccountConfig = playAccountConfigs.PremierAccountConfig
+            flavorDimensions "default"
+        }
+        premierthemes_rasta_sms_plus {
+            applicationId "com.premierthemes.rasta.app"
             versionCode rootProject.ext.themeVersionCode
             versionName rootProject.ext.themeVersionName
             signingConfig signingConfigs.premierthemes
